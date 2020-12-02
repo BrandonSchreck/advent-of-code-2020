@@ -16,4 +16,4 @@ Brandon Schreck
 
 Drop me a line at [brandonschreck86@gmail.com](mailto:brandonschreck86@gmail.com)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/bschreck86?style=social)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bschreck86?style=social">
