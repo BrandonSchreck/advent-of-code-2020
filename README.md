@@ -13,7 +13,7 @@
 
 | Day  | Part One | Part Two |
 |---|:---:|:---:|
-| ✔ [Day 1: Report Repair](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-01)| 🌟 | 🌟 |
+| ✔ [Day 1: Report Repair](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/day-01)| 🌟 | 🌟 |
 | [Day 2: TBD]()| | |
 | [Day 3: TBD]()| | |
 | [Day 4: TBD]()| | |
