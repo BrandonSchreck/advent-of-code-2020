@@ -1,0 +1,27 @@
+{
+  "author": "Brandon Schreck <brandonschreck86@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/BrandonSchreck/advent-of-code-2020/issues"
+  },
+  "description": "JavaScript Solutions for the 2020 Advent of Code Challenge",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "engines": {
+    "node": ">=15.3.0",
+    "npm": ">=7.0.14"
+  },
+  "homepage": "https://github.com/BrandonSchreck/advent-of-code-2020#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "advent-of-code-2020",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonSchreck/advent-of-code-2020.git"
+  },
+  "scripts": {
+    "test": "find ./test -name '*.test.js' | xargs mocha -R spec"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
