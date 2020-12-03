@@ -13,8 +13,8 @@
 
 | Day  | Part One | Part Two |
 |---|:---:|:---:|
-| ✔ [Day 1: Report Repair](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/day-01)| 🌟 | 🌟 |
-| [Day 2: TBD]()| | |
+| ✔ [Day 1: Report Repair](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-1)| 🌟 | 🌟 |
+| ✔ [Day 2: Password Philosophy](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-2)| 🌟 | 🌟 |
 | [Day 3: TBD]()| | |
 | [Day 4: TBD]()| | |
 | [Day 5: TBD]()| | |
