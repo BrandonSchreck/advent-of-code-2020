@@ -6,7 +6,7 @@ const relativeFilePath = 'srv/day-1/sample-expense-report.txt';
 describe('Expense Report 1.1 - Sample', () => {
     const expectedValue = 514579;
 
-    it(`should return ${expectedValue}`, () => {
+    it(`should return ${expectedValue} as the product`, () => {
         return solveForTwoExpenses(relativeFilePath, (product) => {
             assert.strictEqual(product, expectedValue);
         });
@@ -16,7 +16,7 @@ describe('Expense Report 1.1 - Sample', () => {
 describe('Expense Report 1.2 - Sample', () => {
     const expectedValue = 241861950;
 
-    it(`should return ${expectedValue}`, () => {
+    it(`should return ${expectedValue} as the product`, () => {
         return solveForThreeExpenses(relativeFilePath, (product) => {
             assert.strictEqual(product, expectedValue);
         })
