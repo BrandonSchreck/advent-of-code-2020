@@ -1,6 +1,13 @@
 import { readFile } from 'fs';
 import path from 'path';
 
+// returns formatted data from file
+const getFormattedData = (relativeFilePath, splitOn, callback) => {
+    readFromFileAsync(relativeFilePath, (err, data) => {
+        callback(data.toString().split(splitOn));
+    });
+}
+
 // reads the file from the provided relativePath
 function readFromFileAsync(relativePath, callback, encoding = 'utf8') {
     // join the current working directory with the provided relativePath 
@@ -12,5 +19,5 @@ function readFromFileAsync(relativePath, callback, encoding = 'utf8') {
 }
 
 export {
-    readFromFileAsync
+    getFormattedData
 }

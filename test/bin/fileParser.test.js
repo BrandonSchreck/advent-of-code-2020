@@ -1,16 +1,15 @@
 import assert from 'assert';
-import { readFromFileAsync } from '../../bin/fileParser.js';
+import { getFormattedData } from '../../bin/fileParser.js';
 
 const relativeFilePath = 'srv/day-1/sample-expense-report.txt';
 
 describe('FileParser Tests', () => {
-    it('readFromFileAsync should be a function', () => {
-        assert.strictEqual(typeof readFromFileAsync, 'function');
+    it('getFormattedData should be a function', () => {
+        assert.strictEqual(typeof getFormattedData, 'function');
     });
 
-    it('readFromFileAsync should be able to read from a file', (done) => {
-        readFromFileAsync(relativeFilePath, (err, data) => {
-            if (err) return done(err);
+    it('getFormattedData should be able to read from a file', (done) => {
+        getFormattedData(relativeFilePath, '\n', (data) => {
             assert.ok(data);
             done();
         });
