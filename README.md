@@ -17,7 +17,7 @@
 | ✔ [Day 2: Password Philosophy](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-2)| 🌟 | 🌟 |
 | ✔ [Day 3: Toboggan Trajectory](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-3)| 🌟 | 🌟 |
 | ✔ [Day 4: Passport Processing](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-4)| 🌟 | 🌟 |
-| [Day 5: Binary Boarding](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-5)| | |
+| ✔ [Day 5: Binary Boarding](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-5)| 🌟 | 🌟 |
 | [Day 6: TBD]()| | |
 | [Day 7: TBD]()| | |
 | [Day 8: TBD]()| | |
