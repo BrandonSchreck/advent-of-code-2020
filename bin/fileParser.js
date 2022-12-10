@@ -4,7 +4,7 @@ import path from 'path';
 // returns formatted data from file
 const getFormattedData = (relativeFilePath, splitOn, callback) => {
     readFromFileAsync(relativeFilePath, (err, data) => {
-        callback(data.toString().split(splitOn).filter(x => x));
+        callback(data.toString().split(splitOn).map(x => x.trim()));
     });
 }
 

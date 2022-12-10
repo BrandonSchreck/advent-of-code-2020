@@ -25,7 +25,7 @@
 | ✔ [Day 10: Adapter Array](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-10)| 🌟 | 🌟 |
 | ✔ [Day 11: Seating System](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-11)| 🌟 | 🌟 |
 | ✔ [Day 12: Rain Risk](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-12)| 🌟 | 🌟 |
-| [Day 13: TBD]()| | |
+| ✔ [Day 13: Shuttle Search](https://github.com/BrandonSchreck/advent-of-code-2020/tree/main/lib/day-13)| 🌟 | 🌟 |
 | [Day 14: TBD]()| | |
 | [Day 15: TBD]()| | |
 | [Day 16: TBD]()| | |
