@@ -5,7 +5,7 @@
   },
   "description": "JavaScript Solutions for the 2020 Advent of Code Challenge",
   "devDependencies": {
-    "mocha": "^8.2.1"
+    "mocha": "^10.1.0"
   },
   "engines": {
     "node": ">=14.15.0",
