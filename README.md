@@ -45,7 +45,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/BrandonSchre
 ## Contact
 Brandon Schreck
 
-Drop me a line at [brandonschreck86@gmail.com](mailto:brandonschreck86@gmail.com) of follow me on Twitter. 
+Drop me a line at [brandonschreck86@gmail.com](mailto:brandonschreck86@gmail.com) or follow me on Twitter. 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bschreck86?style=social)](https://twitter.com/bschreck86) 
 
