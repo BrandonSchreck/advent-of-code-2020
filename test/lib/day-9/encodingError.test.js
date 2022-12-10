@@ -2,7 +2,7 @@ import assert from 'assert';
 import { solveForOne, solveForTwo } from '../../../lib/day-9/encodingError.js';
 
 const preamble = 5;
-const relativeFilePath = 'srv/day-9/sample-game-output.txt';
+const relativeFilePath = 'src/day-9/sample-game-output.txt';
 
 describe('Encoding Error 9.1 test', () => {
     const expectedValue = 127;

@@ -1,7 +1,7 @@
 import assert from 'assert';
 import { getFormattedData } from '../../bin/fileParser.js';
 
-const relativeFilePath = 'srv/day-1/sample-expense-report.txt';
+const relativeFilePath = 'src/day-1/sample-expense-report.txt';
 
 describe('FileParser Tests', () => {
     it('getFormattedData should be a function', () => {

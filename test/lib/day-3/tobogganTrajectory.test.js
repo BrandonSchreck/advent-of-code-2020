@@ -1,7 +1,7 @@
 import assert from 'assert';
 import { solveForOne, solveForTwo } from '../../../lib/day-3/tobogganTrajectory.js';
 
-const relativeFilePath = 'srv/day-3/sample-tree-map.txt';
+const relativeFilePath = 'src/day-3/sample-tree-map.txt';
 
 describe('Toboggan Trajectory 3.1 - Sample', () => {
     const expectedValue = 7;

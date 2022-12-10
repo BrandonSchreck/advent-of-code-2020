@@ -1,7 +1,7 @@
 import assert from 'assert';
 import { solveForOne, solveForTwo } from '../../../lib/day-1/expenseReport.js';
 
-const relativeFilePath = 'srv/day-1/sample-expense-report.txt';
+const relativeFilePath = 'src/day-1/sample-expense-report.txt';
 
 describe('Expense Report 1.1 - Sample', () => {
     const expectedValue = 514579;

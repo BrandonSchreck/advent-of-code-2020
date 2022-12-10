@@ -1,7 +1,7 @@
 import assert from 'assert';
 import { solveForOne, solveForTwo } from '../../../lib/day-8/handheldHalting.js';
 
-const relativeFilePath = 'srv/day-8/sample-boot-codes.txt';
+const relativeFilePath = 'src/day-8/sample-boot-codes.txt';
 
 describe('Handheld Halting 8.1 test', () => {
     const expectedValue = 5;

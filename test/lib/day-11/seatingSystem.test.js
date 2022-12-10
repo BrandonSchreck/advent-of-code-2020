@@ -1,7 +1,7 @@
 import assert from 'assert';
 import { solveForOne, solveForTwo } from '../../../lib/day-11/seatingSystem.js';
 
-const relativeFilePath = 'srv/day-11/sample-seating-map.txt';
+const relativeFilePath = 'src/day-11/sample-seating-map.txt';
 
 describe('Seating System 11.1 test', () => {
     const expectedValue = 37;

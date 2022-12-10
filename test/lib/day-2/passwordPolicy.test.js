@@ -1,7 +1,7 @@
 import assert from 'assert';
 import { solveForOne, solveForTwo } from '../../../lib/day-2/passwordPolicy.js';
 
-const relativeFilePath = 'srv/day-2/sample-password-policies.txt';
+const relativeFilePath = 'src/day-2/sample-password-policies.txt';
 
 describe('Password Policy 2.1 - Sample', () => {
     const expectedValue = 2;
